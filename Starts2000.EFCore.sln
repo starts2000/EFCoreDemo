@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starts2000.EFCoreCodeFirst", "Starts2000.EFCoreCodeFirst\Starts2000.EFCoreCodeFirst.csproj", "{CFDC2A25-F4A2-4AE0-AEBB-9D9CA145669A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starts2000.EFCoreCodeFirst", "Starts2000.EFCoreCodeFirst\Starts2000.EFCoreCodeFirst.csproj", "{CFDC2A25-F4A2-4AE0-AEBB-9D9CA145669A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starts2000.EFCoreCodeFirst.Test", "Starts2000.EFCoreCodeFirst.Test\Starts2000.EFCoreCodeFirst.Test.csproj", "{C275E57D-36BD-4F46-97A9-5CCA86425615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starts2000.EFCoreCodeFirst.Test", "Starts2000.EFCoreCodeFirst.Test\Starts2000.EFCoreCodeFirst.Test.csproj", "{C275E57D-36BD-4F46-97A9-5CCA86425615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starts2000.EFCoreDbFirst", "Starts2000.EFCoreDbFirst\Starts2000.EFCoreDbFirst.csproj", "{4CED9D7E-8249-40D7-8B28-A464417A1E30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starts2000.EFCoreDbFirst", "Starts2000.EFCoreDbFirst\Starts2000.EFCoreDbFirst.csproj", "{4CED9D7E-8249-40D7-8B28-A464417A1E30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starts2000.EFCoreDbFirst.Test", "Starts2000.EFCoreDbFirst.Test\Starts2000.EFCoreDbFirst.Test.csproj", "{DBD9F12F-2337-4533-AD35-C5CB67A06191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starts2000.EFCoreDbFirst.Test", "Starts2000.EFCoreDbFirst.Test\Starts2000.EFCoreDbFirst.Test.csproj", "{DBD9F12F-2337-4533-AD35-C5CB67A06191}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25C628EA-2FFD-43F8-8CB2-2CECB9676225}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
