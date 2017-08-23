@@ -11,8 +11,8 @@ using System;
 namespace Starts2000.EFCoreCodeFirst.Test.Migrations
 {
     [DbContext(typeof(TestDbContext))]
-    [Migration("20170822024409_UpdateUserTable")]
-    partial class UpdateUserTable
+    [Migration("20170822085658_UserTableUpdateAccount")]
+    partial class UserTableUpdateAccount
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

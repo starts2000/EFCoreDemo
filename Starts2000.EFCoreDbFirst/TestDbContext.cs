@@ -14,7 +14,7 @@ namespace Starts2000.EFCoreDbFirst
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseMySql("server=localhost;database=TestDb;user=test;password=123456;");
+                optionsBuilder.UseMySql("Server=localhost;User Id=test;Password=123456;Database=TestDb");
             }
         }
 

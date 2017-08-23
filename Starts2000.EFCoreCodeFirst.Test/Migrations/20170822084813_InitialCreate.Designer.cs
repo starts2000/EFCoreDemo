@@ -11,7 +11,7 @@ using System;
 namespace Starts2000.EFCoreCodeFirst.Test.Migrations
 {
     [DbContext(typeof(TestDbContext))]
-    [Migration("20170822023347_InitialCreate")]
+    [Migration("20170822084813_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

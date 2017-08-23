@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Starts2000.EFCoreCodeFirst.Test.Migrations
 {
-    public partial class UpdateUserTable : Migration
+    public partial class UserTableUpdateAccount : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
